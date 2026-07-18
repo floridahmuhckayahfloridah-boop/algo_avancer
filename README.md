@@ -1,8 +1,8 @@
 #  Tour de Hanoï - Solution Itérative avec Visualisation
 
 > Une implémentation interactive du célèbre problème de la Tour de Hanoï utilisant un algorithme itératif avec visualisation en temps réel dans la console.
-> **Groupe 6, L1B** : Muckaya, Njaratiana, Maelle, Fitia, Shanty  
-> **Sujet n°6** : Implémentation itérative de la Tour de Hanoï avec affichage  
+> **Groupe 4, L1B** : Muckaya, Njaratiana, Maelle, Fitia, Shanty  
+> **Sujet n°4** : Implémentation itérative de la Tour de Hanoï avec affichage  
 
 
 ##  Présentation
